@@ -1,15 +1,15 @@
 # Báo cáo cá nhân — Ngày 2 Object Detection
 
-Đổi tên file theo `MSSV_HoTen.md`, ví dụ `20241234_NguyenVanAn.md`. Điền kết quả thật, xóa dòng hướng dẫn khi nộp. Xem [quy định nộp](../../SUBMISSION.md).
+Đổi tên file theo `2A202603350_HoangDuyVuong.md`, ví dụ `20241234_NguyenVanAn.md`. Điền kết quả thật, xóa dòng hướng dẫn khi nộp. Xem [quy định nộp](../../SUBMISSION.md).
 
 ## 1. Thông tin học viên
 
-- Họ tên:
-- MSSV:
-- Email:
-- Lớp:
-- Link repo bài làm:
-- Link Colab đã chạy:
+- Họ tên: Hoàng Duy Vương
+- MSSV: 2A202603350
+- Email: duyvuong12333@gmail.com
+- Lớp: L2B
+- Link repo bài làm: https://github.com/YuSh1nafk/K5-L2B-Day02-HoangDuyVuong-2A202603350-ObjectDetection.git
+- Link Colab đã chạy: https://colab.research.google.com/drive/1QDSW8GlFk0x0eef16cLpFbdYnTZVOyL_#scrollTo=8e715548
 
 ## 2. Schema và mini guideline
 
@@ -17,7 +17,7 @@ Dẫn tới [GUIDELINE_MINI.md](../../GUIDELINE_MINI.md). Tóm tắt ba ca mơ h
 
 ## 3. Annotation và self-QC
 
-- Số file nhãn train:
+- Số file nhãn train: 
 - Kết quả checker và lỗi đã xử lý:
 - Danh sách ít nhất 10 ảnh đã rà bằng mắt:
 - Lỗi bỏ sót/box/class phát hiện khi rà và cách sửa:
